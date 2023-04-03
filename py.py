@@ -3,5 +3,5 @@
 #fuck all this we are gonna write some python program which may or may not wor
 
 x = input('what ever the fuck this is')
-
+if x = float(x)
 

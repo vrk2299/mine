@@ -4,5 +4,5 @@
 
 x = input('what ever the fuck this is')
 #we write logic
-
+if x = float(x)
 
